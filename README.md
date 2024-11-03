@@ -1,7 +1,5 @@
-I'm a software developer in my final year at Metropolia University of Applied Sciences. I am strongly interested in building full-stack applications, automating workflows, and working in cloud environments.
-
-
 ### About Me
+I'm a software developer in my final year at Metropolia University of Applied Sciences. I am strongly interested in building full-stack applications, automating workflows, and working in cloud environments.
 
 * **Studying:** Bachelor's in Information Technology Engineering (estimated graduation 2025).
     Check my course work: **[Transcript of Records (opintosuoritusote)](https://drive.google.com/file/d/1ygUsiSQEiDHMndohvgUgRtKiDl1vIZnR/view?usp=sharing)**
@@ -29,20 +27,21 @@ Currently exploring potential topics for my thesis, I have a few broad ideas:
 * Enhancing Deployment Efficiency through Infrastructure as Code (IaC): A Scalable Solution for Multi-Environment Management with Terraform on AWS
 * Building a Test Automation Framework for Reliable E2E Testing in Production-Ready Full Stack Applications 
 
-## Projects
+### Projects
 #### **Web applications**
 Small full-stack apps mainly using JavaScript/React:
 
-* [LinkedIn](https://www.linkedin.com/in/patrick-selin/)
-* [LinkedIn](https://www.linkedin.com/in/patrick-selin/)
-* [LinkedIn](https://www.linkedin.com/in/patrick-selin/)
+* [Dockerizes Full-stack Blog App React, Node.js & PostgreSQL, Unit & E2E Tests](https://github.com/patrick-selin/fso-sql-blog-app/blob/main/backend/docker-compose.yml)
+* [Dockerized Javascript/Deno Crud App & PostgreSQL, Auth, Signed Cookies](https://github.com/patrick-selin/deno-todo-app/)
+* [React Bookstore app/Firebase db](https://github.com/patrick-selin/bookstore-app)
+* [DevOps with Docker](https://github.com/patrick-selin/devops-docker)
 
 #### **Websites**
 Responsive landing pages & UI components made with HTML/CSS of Figma design file:
 
 * [Landing Page 1](https://github.com/patrick-selin/equalizer-landing-page), [Landing Page 2](https://github.com/patrick-selin/skilled-elearning-landing-page), [Landing Page 3](https://github.com/patrick-selin/huddle-landing-page)
-* [Testimonials Grid section](https://github.com/patrick-selin/Testimonials-grid-section), [Social Proof -section](https://github.com/patrick-selin/social-proof-section), [Feature-section](https://github.com/patrick-selin/four-card-feature-section)
-* [Price component](https://github.com/patrick-selin/single-price-grid-component), [Stats component](https://github.com/patrick-selin/stats-preview-card-component),[Order Summary -card](https://github.com/patrick-selin/order-summary-component), [Preview card component](https://github.com/patrick-selin/nft-preview-card-component), [QR code -component](https://github.com/patrick-selin/QR-code-component)
+* [Testimonials Grid -section](https://github.com/patrick-selin/Testimonials-grid-section), [Social Proof -section](https://github.com/patrick-selin/social-proof-section), [Feature-section](https://github.com/patrick-selin/four-card-feature-section)
+* [Price-component](https://github.com/patrick-selin/single-price-grid-component), [Stats-component](https://github.com/patrick-selin/stats-preview-card-component), [Order Summary -card](https://github.com/patrick-selin/order-summary-component), [Preview card -component](https://github.com/patrick-selin/nft-preview-card-component), [QR code -component](https://github.com/patrick-selin/QR-code-component)
 
 #### **Commandline apps**
 Small CLI apps made with different programming languages:
@@ -55,8 +54,5 @@ Small CLI apps made with different programming languages:
 
 I'm up for connecting and exploring junior role opportunities or internship positions.
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrick-selin/)<br>  
-Email: patrick.selin at gmail.com   
-
-[LinkedIn](https://www.linkedin.com/in/patrick-selin/)
-
+LinkedIn: [https://www.linkedin.com/in/patrick-selin/](https://www.linkedin.com/in/patrick-selin/)
+Email: patrick.selin@gmail.com   
