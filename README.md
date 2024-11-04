@@ -31,7 +31,7 @@ Currently exploring potential topics for my thesis, I have a few broad ideas:
 #### **Web applications**
 Small full-stack apps mainly using JavaScript/React:
 
-* [Full-stack Blog App: React, Node.js, Docker containers & PostgreSQL, Unit & E2E Tests](https://github.com/patrick-selin/fso-sql-blog-app/blob/main/backend/docker-compose.yml)
+* [Full-stack Blog App: React, Node.js, Docker containers & PostgreSQL, Unit & E2E Tests](https://github.com/patrick-selin/fso-sql-blog-app)
 * [Dockerized Javascript/Deno Crud App: PostgreSQL, Auth, Signed Cookies](https://github.com/patrick-selin/deno-todo-app/)
 * [React Bookstore App: Firebase database](https://github.com/patrick-selin/bookstore-app)
 * [DevOps with Docker](https://github.com/patrick-selin/devops-docker)
@@ -46,12 +46,12 @@ Responsive landing pages & UI components created with HTML/CSS from Figma design
 CLI apps built in different programming languages:
 
 * [Student Registry: Java](https://github.com/patrick-selin/oop-with-java/tree/main/Java%202%20-%20Homework%203/src/dev/m3s/programming2/homework3/)
-* [C Programs](https://www.linkedin.com/in/patrick-selin/)
+* [C Programs](https://github.com/patrick-selin/operating-systems)
 * [Assembler Programs](https://github.com/patrick-selin/microprosessors-8086)
 
 ### Connect
 
 I’m open to connecting and exploring junior roles or internship opportunities.
 
-**LinkedIn:** [https://www.linkedin.com/in/patrick-selin/](https://www.linkedin.com/in/patrick-selin/)
+**LinkedIn:** [https://www.linkedin.com/in/patrick-selin/](https://www.linkedin.com/in/patrick-selin/)<br>
 **Email:** patrick.selin@metropolia.fi
