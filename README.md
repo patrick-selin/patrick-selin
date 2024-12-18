@@ -16,10 +16,10 @@ I'm a software developer in my final year at Metropolia University of Applied Sc
 * **Others:** HTML, CSS, Figma<br>
 
 ### I'm Working on
-#### **Coding App**
-A full-stack TypeScript application: code editor where users can solve coding challenges. The app will feature CI/CD pipelines and support multi-environment deployments to AWS.
+#### **CRM App**
+A full-stack TypeScript application: basic CRM app. The app will feature CI/CD pipelines and support multi-environment deployments to AWS.
 * **Current Status**: In the setup phase—configuring servers, databases and building CI/CD pipelines. Managing infrastructure as code (IaC) with Terraform for AWS deployment. *No features available yet*.
-* **[Check the project repo](https://github.com/patrick-selin/coding-app)** for more details and documentation.
+* **[Check the project repo](https://github.com/patrick-selin/crm-app)** for more details and documentation.
 
 #### **Thesis topic exploring**
 Currently exploring potential topics for my thesis, I have a few broad ideas:
