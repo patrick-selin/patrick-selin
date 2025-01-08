@@ -18,7 +18,7 @@ I'm a software developer in my final year at Metropolia University of Applied Sc
 ### I'm Working on
 #### **CRM App**
 A full-stack TypeScript application: basic CRM app. The app will feature CI/CD pipelines and support multi-environment deployments to AWS.
-* **Current Status**: In the setup phase—configuring servers, databases and building CI/CD pipelines. Managing infrastructure as code (IaC) with Terraform for AWS deployment. *No features available yet*.
+* **Current Status**: In the setup phase—configuring servers, databases and building CI/CD pipelines. Managing infrastructure as code (IaC) with Terraform for AWS deployment.
 * **[Check the project repo](https://github.com/patrick-selin/crm-app)** for more details and documentation.
 
 #### **Thesis topic exploring**
