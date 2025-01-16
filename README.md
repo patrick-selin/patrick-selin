@@ -2,7 +2,7 @@
 I'm a software developer in my final year at Metropolia University of Applied Sciences. I have a strong interest in building full-stack applications, automating workflows, and working in cloud environments.
 
 * **Studying:** Bachelor's in Information Technology Engineering (estimated graduation 2025).
-* **Coursework:** Check my **[Transcript of Records (opintosuoritusote)](https://drive.google.com/file/d/1ygUsiSQEiDHMndohvgUgRtKiDl1vIZnR/view?usp=sharing)**
+* **Coursework:** Check my **[Transcript of Records (opintosuoritusote)](https://drive.google.com/file/d/1YDRdyqCf4f8OKr_i0JJ7PIABva2al5OX/view?usp=sharing)**
 * **Location:** Turku, Finland  
 * **Languages:** Finnish (native), English (fluent)  
 * **Interests:** Software Engineering, Full Stack web-development, CI/CD, IaC, Cloud/AWS<br> 
