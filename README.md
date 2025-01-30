@@ -17,14 +17,8 @@ I'm a software developer in my final year at Metropolia University of Applied Sc
 
 ### I'm Working on
 #### **CRM App**
-A full-stack TypeScript application: basic CRM app. The app will feature CI/CD pipelines and support multi-environment deployments to AWS.
+A full-stack TypeScript, Java application: basic CRM app. The app will feature CI/CD pipelines and support multi-environment deployments to AWS.
 * **[Check the project repo](https://github.com/patrick-selin/crm-app)** for more details and documentation.
-
-#### **Thesis topic exploring**
-Currently exploring potential topics for my thesis, I have a few broad ideas:
-* **Scalable Network Architecture with Native Node.js**: Exploring Buffers, Streams and Concurrent Processing
-* **Enhancing Deployment Efficiency through Infrastructure as Code (IaC)**: A Scalable Solution for Multi-Environment Management with Terraform on AWS
-* **Building a Test Automation Framework for Reliable E2E Testing** in Production-Ready Full Stack Applications 
 
 ### Projects
 #### **Web applications**
