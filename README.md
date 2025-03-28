@@ -1,2 +1,1 @@
-### About Me
-I'm a full-stack dev.
+a dev
